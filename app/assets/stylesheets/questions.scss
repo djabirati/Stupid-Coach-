@@ -1,0 +1,46 @@
+
+ body {
+   background: white;
+ }
+
+ #user {
+   font-style: italic;
+ }
+
+ #coach {
+   font-style: italic;
+   font-weight: lighter;
+ }
+
+.coach_answer {
+  background-color: #fffee1;
+  font-weight: bold;
+  padding: 2px 12px;
+  border-left: 6px solid #dddddd;
+  margin-top: 32px;
+}
+
+.user_answer {
+  border-left: 6px solid #dddddd;
+  padding: 2px 12px;
+
+}
+  a {
+   color: #6495ce;
+   text-decoration: none;
+ }
+
+ h1 {
+   font-weight: 700;
+ }
+
+ .button {
+   background-color:#337ab7;
+   color: white;
+   border-radius: 4px;
+ }
+
+ .ask_input {
+   border: 1px solid #d7d7d7;
+   border-radius: 4px;
+ }
